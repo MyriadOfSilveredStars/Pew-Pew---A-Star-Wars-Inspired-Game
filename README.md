@@ -8,3 +8,5 @@ Two-Player Features:
 - Each ship also has its own bullet patterns and movement speeds
 - Players can play multiple rounds as the same ships, or choose to change after each round
 - Cool explosion animation when one player is defeated
+
+A demo video is available to see the two-player version in action
